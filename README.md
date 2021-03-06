@@ -14,4 +14,6 @@ auto encoder的技巧，使用自身資料當作ground truth做類神經網路�
 對抗式神經網路，做假人臉的生成(generator)以及人臉的判別(discriminator)
 ### 6. DQN：
 強化式學習，以“FreewayDeterministic-v4”遊戲作為載體，訓練模型盡可能達到高分。
+### 7. 報紙標題分類：
+建立辭庫，將字詞轉換成dummy variable形式，使用LSTM架構再進行分類。
 
