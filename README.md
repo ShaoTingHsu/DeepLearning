@@ -1,5 +1,4 @@
 # DeepLearning
-深度學習常見模型: ANN, CNN, LSTM, VAE, GAN, DQN
 
 此為我曾做過的深度學習模型，分別為：
 
